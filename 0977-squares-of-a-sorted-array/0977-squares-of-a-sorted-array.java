@@ -22,8 +22,4 @@ class Solution {
 
 
 
-    
-// //for(int i = 0; i< n; i++){
-// for (int j = i*2; j <n ; j++{
 
-// }
