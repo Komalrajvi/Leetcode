@@ -17,12 +17,14 @@ All Leetcode Solutions
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Komalrajvi/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/Komalrajvi/Leetcode/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/Komalrajvi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Komalrajvi/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Komalrajvi/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Komalrajvi/Leetcode/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/Komalrajvi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Komalrajvi/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
@@ -48,4 +50,8 @@ All Leetcode Solutions
 |  |
 | ------- |
 | [0097-interleaving-string](https://github.com/Komalrajvi/Leetcode/tree/master/0097-interleaving-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Komalrajvi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
