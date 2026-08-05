@@ -8,6 +8,7 @@ All Leetcode Solutions
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/Komalrajvi/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Komalrajvi/Leetcode/tree/master/0097-interleaving-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Komalrajvi/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Backtracking
 |  |
 | ------- |
@@ -25,6 +26,7 @@ All Leetcode Solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Komalrajvi/Leetcode/tree/master/0169-majority-element) |
+| [0424-longest-repeating-character-replacement](https://github.com/Komalrajvi/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Komalrajvi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Komalrajvi/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
@@ -56,4 +58,8 @@ All Leetcode Solutions
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Komalrajvi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Komalrajvi/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
