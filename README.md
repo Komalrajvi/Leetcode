@@ -22,6 +22,7 @@ All Leetcode Solutions
 | [0560-subarray-sum-equals-k](https://github.com/Komalrajvi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Komalrajvi/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Komalrajvi/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Komalrajvi/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,4 +63,21 @@ All Leetcode Solutions
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Komalrajvi/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Komalrajvi/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Queue
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Komalrajvi/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Komalrajvi/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Ordered Set
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Komalrajvi/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Komalrajvi/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
