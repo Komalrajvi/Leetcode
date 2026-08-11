@@ -16,6 +16,7 @@ All Leetcode Solutions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Komalrajvi/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Komalrajvi/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Komalrajvi/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Komalrajvi/Leetcode/tree/master/0169-majority-element) |
@@ -27,6 +28,7 @@ All Leetcode Solutions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Komalrajvi/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Komalrajvi/Leetcode/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/Komalrajvi/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Komalrajvi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
