@@ -21,6 +21,7 @@ All Leetcode Solutions
 | [0045-jump-game-ii](https://github.com/Komalrajvi/Leetcode/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Komalrajvi/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Komalrajvi/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Komalrajvi/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Komalrajvi/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Komalrajvi/Leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Komalrajvi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -55,6 +56,7 @@ All Leetcode Solutions
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Komalrajvi/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Komalrajvi/Leetcode/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Komalrajvi/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -105,6 +107,7 @@ All Leetcode Solutions
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Komalrajvi/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Komalrajvi/Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
