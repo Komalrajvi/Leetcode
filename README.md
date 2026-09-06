@@ -25,6 +25,7 @@ All Leetcode Solutions
 | [0217-contains-duplicate](https://github.com/Komalrajvi/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Komalrajvi/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Komalrajvi/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Komalrajvi/Leetcode/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Komalrajvi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Komalrajvi/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Komalrajvi/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -58,6 +59,7 @@ All Leetcode Solutions
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Komalrajvi/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Komalrajvi/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Komalrajvi/Leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Komalrajvi/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
