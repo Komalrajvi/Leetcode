@@ -19,6 +19,7 @@ All Leetcode Solutions
 | [0001-two-sum](https://github.com/Komalrajvi/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Komalrajvi/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Komalrajvi/Leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Komalrajvi/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Komalrajvi/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Komalrajvi/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Komalrajvi/Leetcode/tree/master/0189-rotate-array) |
@@ -69,6 +70,7 @@ All Leetcode Solutions
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Komalrajvi/Leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Komalrajvi/Leetcode/tree/master/0055-jump-game) |
 | [0097-interleaving-string](https://github.com/Komalrajvi/Leetcode/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Komalrajvi/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Prefix Sum
@@ -108,6 +110,7 @@ All Leetcode Solutions
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Komalrajvi/Leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Komalrajvi/Leetcode/tree/master/0055-jump-game) |
 ## Math
 |  |
 | ------- |
